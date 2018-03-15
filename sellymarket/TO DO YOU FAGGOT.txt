@@ -1,0 +1,4 @@
+- Update Items.php
+~ Won't send correct amount via post. I think it's because of how the form is set up.
+
+- Design panel/profile.php better. Maybe use bootstrap template and some snipped exambles??
